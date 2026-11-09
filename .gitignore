@@ -1,0 +1,10 @@
+# ModelSim
+work/
+transcript
+*.wlf
+
+# Quartus
+db/
+incremental_db/
+output_files/
+```eof
