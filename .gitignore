@@ -2,6 +2,9 @@
 work/
 transcript
 *.wlf
+*.mpf
+*.mti
+*.vstf
 
 # Quartus
 db/
